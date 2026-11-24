@@ -1,2 +1,2 @@
-# vinu-js-backend
+# vind-avjs-backend
 Earning and entertainment
